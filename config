@@ -1,5 +1,5 @@
 [user]
-	email = raphael.weis.2003@gmail.com
+	email = raphael.weis.dev@gmail.com
 	name = Raphaël Weis
 [init]
 	defaultBranch = main
@@ -7,5 +7,3 @@
 	rebase = false
 [core]
 	editor = nvim
-[safe]
-	directory = /opt/flutter
